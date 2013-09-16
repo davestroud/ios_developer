@@ -19,7 +19,7 @@ class wdi
           wdi.alternate_colors_and_shrink(child, level + 1)
 
   @data:
-    label: "David Stroud iOS Devloper"
+    label: "dstroud iOS Developer"
     children: [
       label: 'Back-End'
       children: [
